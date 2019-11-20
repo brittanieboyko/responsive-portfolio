@@ -1,0 +1,17 @@
+
+/* Generic Classes */
+html,
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-image: url("images/cloudy-day.png");
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+}
+
+h2, h1 {
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;;
+}
+
