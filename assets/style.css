@@ -54,3 +54,12 @@ ul > li:not(:last-child) {
     color: #ffffff;
     border: none;
 }
+
+.custom-footer {
+    height: 60px;
+    background-color: #666666;
+    border-top: 6px solid #4aaaa5;
+    color: #ffffff;
+    padding: 10px;
+    text-align: center;
+}
