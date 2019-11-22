@@ -48,3 +48,9 @@ ul > li:not(:last-child) {
     border-right: 1px solid #cccccc;
 
 }
+
+.custom-button {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    border: none;
+}
