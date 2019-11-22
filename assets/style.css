@@ -54,6 +54,17 @@ ul > li:not(:last-child) {
     color: #ffffff;
     border: none;
 }
+.portfolio-image {
+    position: relative;
+}
+
+.portfolio-button {
+    width: 200px;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    position: absolute;
+    left: 16px;
+    bottom: 30px;
+}
 
 .custom-footer {
     height: 60px;
