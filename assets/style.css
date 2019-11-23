@@ -5,14 +5,14 @@ body {
     height: 100%;
     margin: 0;
     padding: 0;
-    background-image: url("images/cloudy-day.png");
-    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    background-image: url("images/rockywall.png");
+    font-family: 'Ibarra Real Nova', serif;
     color: #777777;
 }
 
 h2, h1 {
-    color: #4aaaa5;
-    font-family: 'Georgia', Times, 'Times New Roman', serif;;
+    color: #505160;
+    font-family: 'Ibarra Real Nova', serif;
 }
 .container {
     padding-right: 0px;
@@ -27,7 +27,7 @@ h2, h1 {
 }
 
 .custom-nav {
-    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    font-family: 'Ibarra Real Nova', serif;
     color: white;
     border-bottom: 1px solid #dddddd;
 
@@ -35,7 +35,7 @@ h2, h1 {
 }
 
 .my-name {
-    background-color: #4aaaa5;
+    background-color: #505160;
     padding: 15px 20px;
 }
 
@@ -50,7 +50,7 @@ ul > li:not(:last-child) {
 }
 
 .custom-button {
-    background-color: #4aaaa5;
+    background-color: #505160;
     color: #ffffff;
     border: none;
 }
@@ -61,7 +61,7 @@ ul > li:not(:last-child) {
 
 .portfolio-button {
     width: 200px;
-    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    font-family: 'Ibarra Real Nova', serif;
     position: absolute;
     left: 15px;
     bottom: 30px;
@@ -73,8 +73,8 @@ ul > li:not(:last-child) {
 
 .custom-footer {
     height: 60px;
-    background-color: #666666;
-    border-top: 6px solid #4aaaa5;
+    background-color: #505160;
+    border-top: 4px solid #cccccc;
     color: #ffffff;
     padding: 10px;
     text-align: center;
