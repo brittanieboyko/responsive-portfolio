@@ -14,10 +14,12 @@ h2, h1 {
     color: #505160;
     font-family: 'Ibarra Real Nova', serif;
 }
+
 .container {
     padding-right: 0px;
     padding-left: 0px;
 }
+
 .main-content {
     padding: 20px;
     background-color: #ffffff;
@@ -30,8 +32,6 @@ h2, h1 {
     font-family: 'Ibarra Real Nova', serif;
     color: white;
     border-bottom: 1px solid #dddddd;
-
-
 }
 
 .my-name {
@@ -44,9 +44,12 @@ a {
     size: 10px;
 }
 
+a:hover {
+    color: #a43820;
+  }
+
 ul > li:not(:last-child) {
     border-right: 1px solid #cccccc;
-
 }
 
 .custom-button {
@@ -54,6 +57,7 @@ ul > li:not(:last-child) {
     color: #ffffff;
     border: none;
 }
+
 .portfolio-image {
     position: relative;
     padding: 10px 0px;
@@ -67,6 +71,7 @@ ul > li:not(:last-child) {
     bottom: 30px;
     border-radius: 0px;
 }
+
 .image-spacing {
     padding: 0px 15px;
 }
