@@ -62,18 +62,11 @@ p {
     border: none;
 }
 
-.portfolio-image {
-    position: relative;
-    padding: 10px 0px;
-}
-
 .portfolio-button {
     width: 200px;
     font-family: 'Ibarra Real Nova', serif;
-    position: absolute;
-    left: 15px;
-    bottom: 30px;
     border-radius: 0px;
+    margin-bottom: 20px;
 }
 
 .image-spacing {
@@ -97,5 +90,10 @@ p {
         margin-right: auto;
         width: 50%;
         padding-bottom: 10px;
+    }
+    .portfolio-image, .portfolio-button {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
     }
   }
