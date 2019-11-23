@@ -52,6 +52,10 @@ ul > li:not(:last-child) {
     border-right: 1px solid #cccccc;
 }
 
+p {
+    padding: 0px 30px;
+}
+
 .custom-button {
     background-color: #505160;
     color: #ffffff;
@@ -84,3 +88,14 @@ ul > li:not(:last-child) {
     padding: 10px;
     text-align: center;
 }
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    .my-image {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+        padding-bottom: 10px;
+    }
+  }
