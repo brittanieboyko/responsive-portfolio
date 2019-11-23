@@ -5,7 +5,7 @@ Welcome to my Portfolio page! This is my personal website.
 
 
 ## Domains
-* This website is currently being hosted on Github Pages at []
+* This website is currently being hosted on Github Pages at [https://brittanieboyko.github.io/responsive-portfolio/]
 
 
 ## Technology
