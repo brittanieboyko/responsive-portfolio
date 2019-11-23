@@ -56,16 +56,19 @@ ul > li:not(:last-child) {
 }
 .portfolio-image {
     position: relative;
-    padding: 10px;
+    padding: 10px 0px;
 }
 
 .portfolio-button {
     width: 200px;
     font-family: 'Georgia', Times, 'Times New Roman', serif;
     position: absolute;
-    left: 25px;
+    left: 15px;
     bottom: 30px;
     border-radius: 0px;
+}
+.image-spacing {
+    padding: 0px 15px;
 }
 
 .custom-footer {
