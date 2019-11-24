@@ -8,7 +8,7 @@ Welcome to my Portfolio page! This is my personal website.
 * This website is currently being hosted on Github Pages at [https://brittanieboyko.github.io/responsive-portfolio/]
 
 
-## Technology
+## Built with:
 * Good old CSS and html
 * [GitHub Pages](http://pages.github.com/)
 * Bootstrap v 4.3.1 (https://getbootstrap.com/)
