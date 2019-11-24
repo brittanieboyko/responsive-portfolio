@@ -10,8 +10,8 @@ Welcome to my Portfolio page! This is my personal website.
 
 ## Built with:
 * Good old CSS and html
-* [GitHub Pages](http://pages.github.com/)
 * Bootstrap v 4.3.1 (https://getbootstrap.com/)
+* [GitHub Pages](http://pages.github.com/)
 
 ## Contact
 #### Developer
