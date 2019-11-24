@@ -1,5 +1,6 @@
 
 /* Generic Classes */
+
 html,
 body {
     height: 100%;
@@ -27,6 +28,8 @@ h2, h1 {
     border: 1px solid #dddddd;
 }
 
+/* nav-bar */
+
 .custom-nav {
     font-family: 'Ibarra Real Nova', serif;
     color: white;
@@ -45,17 +48,28 @@ a {
 
 a:hover {
     color: #a43820;
-  }
+}
 
 ul > li:not(:last-child) {
     border-right: 1px solid #cccccc;
 }
 
+/* About Me Page */
+
+.bio {
+    margin-left: 35px;
+}
+
+/* Contact Page */
+
 .custom-button {
     background-color: #505160;
     color: #ffffff;
     border: none;
+    outline: none;
 }
+
+/* Portfolio Page */
 
 .portfolio-button {
     width: 200px;
@@ -68,8 +82,9 @@ ul > li:not(:last-child) {
     padding: 0px 15px;
 }
 
+/* Footer */
+
 .custom-footer {
-    height: 60px;
     background-color: #505160;
     border-top: 4px solid #cccccc;
     color: #ffffff;
@@ -77,19 +92,20 @@ ul > li:not(:last-child) {
     text-align: center;
 }
 
+/* Media Queries */
+
 @media only screen and (max-width: 768px) {
     /* For mobile phones: */
     .my-image, .bio {
         display: block;
         margin-left: auto;
         margin-right: auto;
-        width: 75%;
+        width: 65%;
         padding-bottom: 15px;
     }
 
     .portfolio-image, .portfolio-button {
         display: block;
-        margin-left: auto;
-        margin-right: auto;
+        margin: 0 auto;
     }
-  }
+}
