@@ -68,6 +68,9 @@ ul > li:not(:last-child) {
     border: none;
     outline: none;
 }
+.custom-button:hover {
+    background-color: #777777;
+}
 
 /* Portfolio Page */
 
@@ -79,7 +82,7 @@ ul > li:not(:last-child) {
 }
 
 .image-spacing {
-    padding: 0px 15px;
+    margin: 5%;
 }
 
 /* Footer */
