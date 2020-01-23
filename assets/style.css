@@ -95,7 +95,7 @@ ul > li:not(:last-child) {
     text-align: center;
 }
 
-.footer-links {
+.footer-link {
     color: #ffffff;
     margin: 5px;
 }
