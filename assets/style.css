@@ -62,7 +62,7 @@ a:hover {
 /* About Me Page */
 
 .bio {
-    margin-left: 35px;
+    margin-left: 10%;
 }
 
 /* Contact Page */
@@ -117,7 +117,6 @@ a:hover {
         width: 65%;
         padding-bottom: 15px;
     }
-
     .portfolio-image, .portfolio-button {
         display: block;
         margin: 0 auto;
