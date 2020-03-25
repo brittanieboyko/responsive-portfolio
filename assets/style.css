@@ -2,10 +2,10 @@
 
 html,
 body {
-    background-color: #b48484;
+    background-color: #A7C4A0;
     font-family: 'Roboto Slab', serif;
-    color: #ffffff;
     box-sizing: border-box;
+    color: #37393A;
 }
 
 h2, h1 {
@@ -13,80 +13,79 @@ h2, h1 {
     font-family: 'Montserrat', sans-serif;
 }
 
-.main-content {
-    padding: 20px;
-    background-color: #ffffff;
-    margin-top: 30px;
-    margin-bottom: 100px;
-    border: 1px solid #dddddd;
-}
-#contact,
-#contact:visited {
-    color: #2E303E;
-    text-decoration: none;
-}
-#contact:hover {
-    color: #ffffff;
-}
-
-#aboutMe {
-    margin: 0 auto;
-}
-
-/* nav-bar */
-.custom-nav,
-.navbar-nav,
-.collapse {
-    background-color: #b48484;
-}
-
-.my-name {
+#myName {
     font-family: 'Montserrat', sans-serif;
-    color: #2E303E;
+    color: #DAD4EF;
     margin: 0 2%;
     font-size: 30px;
 }
 
 a:hover {
-    color: #a43820;
+    color: #DAD4EF;
+    text-decoration: none;
+}
+/* About Me Page */
+
+#aboutMe {
+    margin-top: 3%;
+    margin-bottom: 4%;
 }
 
-/* Contact Page */
-
 .custom-button {
-    background-color: #2E303E;
-    color: #ffffff;
+    background-color: #37393A;
+    color: #E0E0E2;
     border: none;
-    outline: none;
 }
 
 .custom-button:hover {
-    background-color: #ffffff;
-}
-
-/* Portfolio Page */
-
-.portfolio-button {
-    width: 300px;
-    font-family: 'Montserrat', sans-serif;
-    border-radius: 0px;
-    margin-bottom: 20px;
+    background-color: #DAD4EF;
 }
 
 .image-spacing {
     margin: 5%;
 }
 
+/* Contact Page */
+
+.main-content {
+    padding: 20px;
+    background-color: #ffffff;
+    margin-top: 30px;
+    margin-bottom: 100px;
+    border: 1px solid #DAD4EF;
+}
+
+#contact,
+#contact:visited {
+    color: #37393A;
+    text-decoration: none;
+}
+#contact:hover {
+    color: #DAD4EF;
+}
+
+/* nav-bar */
+.custom-nav,
+.navbar-nav,
+.collapse {
+    background-color: #A7C4A0;
+}
+
+.nav-link:hover,
+.nav-item:hover {
+    color: #DAD4EF;
+}
+
 /* Footer */
 
 .custom-footer {
-    background-color: #b48484;
-    color: #ffffff;
+    background-color: #A7C4A0;
+    color: #E0E0E2;
     padding: 10px;
     text-align: center;
 }
 
 .footer-link {
-    color: #ffffff;
+    color: #37393A;
     margin: 5px;
 }
